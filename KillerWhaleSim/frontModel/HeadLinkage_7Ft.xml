@@ -2,105 +2,13 @@
 <SimscapeMultibodyImportXML xmlns="urn:mathworks:SimscapeMultibody:import"
                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                             version="2.0">
-   <Created by="Tony" from="Onshape" on="04/10/22||15:57:49"
+   <Created by="Tony" from="Onshape" on="04/10/22||17:07:41"
             using="Simscape Multibody Exporter"/>
    <ModelUnits length="inch" mass="pound"/>
    <DataUnits length="meter" mass="kilogram"/>
    <RootAssembly name="Head Linkage, 7 ft" uid="44e537bc1b1b1a76bddd81a7"
                  version="w-c8b2eb9226fbf412ec5f435b">
       <InstanceTree>
-         <Instance entityUid="RZ5D*:*538ce93aa65d88c9de771143" name="Spacer &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="Mn1NBEnDIVIEAsTuk">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rm6D*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;1&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MARKw8FQwDxN9/pVt">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rv5n*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;16&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="M1UV1Sxyf+8pOH6DS">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RA5H*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MKKl0voej6tXb7MQ+">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Ri5L*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;8&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MvXgETN+ayD16rD/c">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rd6b*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;17&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MGzY1z/3mAEP8rfNL">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R84T*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;14&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MgVzihXSkHwul+VUM">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rg5b*:*538ce93aa65d88c9de771143" name="Spacer &lt;1&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="M1kvqlJ48xNxi0R/G">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R84P*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;20&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MGiVYXgVJrzRs/5L8">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R25L*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MLj6bhAxhsYKArb+D">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RB5X*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="M4AGfZo3m4UKhE3LP">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
          <Instance entityUid="633d88f41024613d1659d64f" name="HeadLink1 &lt;1&gt;"
                    uid="MJh5Frny9osKoGyyp">
             <Transform>
@@ -578,477 +486,1060 @@
                </Transform>
             </Instance>
          </Instance>
-         <Instance entityUid="Rd6j*:*538ce93aa65d88c9de771143" name="Hinge &lt;9&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MAahj7Ey5wtsC/Gj+">
+         <Instance entityUid="fb1c53f80cd2b3c42d6d7114" name="HeadSubLinkage &lt;1&gt;"
+                   uid="MR1WP7DUJo8n64k9q">
             <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+               <Translation>0.000000000 0.000000000 0.000000000 </Translation>
             </Transform>
-         </Instance>
-         <Instance entityUid="Sv5LB*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;17&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="Mozg4xAJ4E1lMA48N">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rk5D*:*538ce93aa65d88c9de771143" name="Bracket &lt;7&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MB1Zilds/4lc17DJb">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rv5v*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;16&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MUlglxYBHyTEt/p57">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rh6D*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;1&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MykWigKgmacuFDZJL">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rm6X*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;1&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="M0mgDt70kph6TIUJm">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rd63*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;18&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="ME5pQk0l4OEnuvu2l">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rh6H*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;1&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MjvMFSRT9GbNxWI3k">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rm5H*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;3&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="M223aTiMUlvfhd2IH">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="ZRNDD*:*77faeddc003adba5d8099293"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;253&gt;"
-                   rigidGroup="root.MriE8fDvFj/1Vgmw/"
-                   uid="Mx2vszr1jsQRtdtRf">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991387087 0.130964281 -0.000000000 -0.130964281 0.991387087 </Rotation>
-               <Translation>-0.000000000 -0.016140929 -0.050043896 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="ZNNDD*:*77faeddc003adba5d8099293"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;252&gt;"
-                   rigidGroup="root.MGuinVBB0uH3bQsz7"
-                   uid="MtMSXI3hAq1Xzvnof">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.998775798 0.049466207 -0.000000000 -0.049466207 0.998775798 </Rotation>
-               <Translation>-0.000000000 -0.006578106 -0.016970139 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rv5X*:*538ce93aa65d88c9de771143" name="Hinge &lt;12&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MeEclkwfg/NR7njr/">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Ri5D*:*538ce93aa65d88c9de771143" name="Bracket &lt;15&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MujuOLI87cLYNtryg">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rh6L*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;1&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MQYN/FYg9fmIlkRKJ">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rm6b*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;1&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MVpbqEwLfA7Qg8Ajv">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RO6X*:*538ce93aa65d88c9de771143" name="Hinge &lt;7&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="M1nw4y3RwWPSH6I06">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rj6L*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;1&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MDEWmJQS6xc+gwF7H">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rj6H*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;1&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MVzc8WoCRaFRiHGRS">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rm6T*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;1&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MUuBvXtOl+nqwAO0q">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R05D*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MGWWAoFgVStcbM0/S">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Ry5L*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;1&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="M8O6la6LgcisVEvhb">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rd6X*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;17&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MGfIlWiCRBbgzO5tl">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Ry5D*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;1&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="M3epYNDg0jd5CJUK2">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R35n*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MkzgJLxfOsr86XLbq">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RM6P*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;9&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MKzxrqE38bYXkEsC4">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rg5T*:*538ce93aa65d88c9de771143" name="Spacer &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="M057xiz0nfSZk7El2">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rv5r*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;16&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MjdWW2QLY9EdRLHhD">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Ri5T*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;8&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MZf4gvXNwVOIe8VkR">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R24T*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;7&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MnukyXrhD7IXBeQjJ">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rj6D*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;1&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MslRtTrqAFVSsLYnk">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rj4D*:*538ce93aa65d88c9de771143" name="Frame Part &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="M5lAeUtXmY8TLnfiq">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RO6D*:*538ce93aa65d88c9de771143" name="Bracket &lt;17&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MosI2vIOFCHsG3k+S">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RF5D*:*538ce93aa65d88c9de771143" name="Frame Part &lt;1&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="MNoWIcCVQf1l+XSQJ">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rv57*:*538ce93aa65d88c9de771143" name="Bracket &lt;10&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="MihDA5mGUl33i2hni">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rk5P*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;7&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="M1wvBoCKmMdS9ZZRO">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rg5L*:*538ce93aa65d88c9de771143" name="Spacer &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MGoBnOjw1CYloGe6O">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="ZSNDH*:*77faeddc003adba5d8099293"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;255&gt;"
-                   rigidGroup="root.MriE8fDvFj/1Vgmw/"
-                   uid="Mz1uJ15pHpAkXkUnK">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991387087 0.130964281 -0.000000000 -0.130964281 0.991387087 </Rotation>
-               <Translation>-0.000000000 -0.016140929 -0.050043896 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rm5P*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;14&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="MOKRBMlBidvXBn4+8">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Ry5H*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;1&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="M0W/+q51Bx05W2PnS">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RO6T*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;12&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="Mx3Et8j624wfqSPq/">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rf5D*:*538ce93aa65d88c9de771143" name="Spacer &lt;1&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MkAaYQS9+HIGouvPV">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rv5j*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;14&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="M9pfTJg9JO0a2QErE">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Sv5PB*:*538ce93aa65d88c9de771143" name="Hinge &lt;6&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="MugrR+Jzbm+5hlyl3">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R24D*:*538ce93aa65d88c9de771143" name="Bracket &lt;5&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MhKaWdJ2OAhhKNZm3">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="ZTNDb*:*77faeddc003adba5d8099293" name="link1fr &lt;1&gt;"
-                   rigidGroup="root.MoV9Lg3Vl1rgX9EA1"
-                   uid="MTtSFMo7h3pL7ddH/">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.998775798 0.049466207 -0.000000000 -0.049466207 0.998775798 </Rotation>
-               <Translation>-0.000000000 -0.006578106 -0.016970139 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R35b*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MvcsQDBIKBtgEuA1i">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rk5L*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;2&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="Ma+QQ7NfliO9T5hbz">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rm6H*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;1&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="M0V/bmDZS2GL55+jH">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Ru4D*:*538ce93aa65d88c9de771143" name="Spacer &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="M9/SLdk4sd0L4IZG1">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.999994644 -0.003272855 -0.000000000 0.003272855 0.999994644 </Rotation>
-               <Translation>-0.000000000 0.000966317 0.001285085 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rk5X*:*538ce93aa65d88c9de771143" name="Hinge &lt;11&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MbXCWJX2nXrU7EIdb">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rg5H*:*538ce93aa65d88c9de771143" name="Frame Part &lt;2&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="MA+tAuRO6HdiqQwGY">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R05L*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="M6TXCTHqfCTUCqUh+">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R84L*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;7&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MM7GH1gnF2daKYrRZ">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rd6T*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;16&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MOIgXNLgoX0Q6XxdC">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RM6T*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;11&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="M98PHUDk2fvmpzGnm">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Ri5H*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;7&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="Mf7gu+a3TMATF59sV">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RM6H*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;9&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MYa6D2Ygs2Mca4wjS">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
+            <Instance entityUid="RO6T*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;5&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="Mbhybbg2tdTCEJE22">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rd6P*:*538ce93aa65d88c9de771143" name="Bracket &lt;11&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="M/jKqEhr/MBcSUNnL">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R84D*:*538ce93aa65d88c9de771143" name="Bracket &lt;6&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MSWltaDS/o50kMKlI">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Ry5L*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;2&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MDcpvN3QkbWvtWATn">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rd6r*:*538ce93aa65d88c9de771143" name="Bracket &lt;12&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MLRduQm/OcS+MBaIY">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rm5P*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;29&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MBivq7+qIGo9E9O3k">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rm6D*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;10&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MF/VvzbF32Sl6JzB9">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rd6b*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;38&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MeqbAqRKgmbz+q6nq">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Ri5H*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;12&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MRLyi40RQCmiU7uNU">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="ZTNDT*:*77faeddc003adba5d8099293" name="link1fl &lt;1&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MMCLPEuLOO9uutOfQ"
+                      uid="MkS5hWH/RkA0i3p5D">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.998775798 0.049466207 -0.000000000 -0.049466207 0.998775798 </Rotation>
+                  <Translation>-0.000000000 -0.006578106 -0.016970139 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R84L*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;20&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MAGy4FNuk+Sl3mxbR">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RF5D*:*538ce93aa65d88c9de771143" name="Frame Part &lt;2&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MID7bd/w3Vc9byvaM">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R35T*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;9&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MUCmXO/LrGKPdtr7L">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R24L*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;8&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MR1RqjXHTukHd+6wo">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R84H*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;23&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="Muj6gH82VMD66Y9v9">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rv5L*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;26&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="M3W8U1X3faTqQutup">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R04P*:*538ce93aa65d88c9de771143" name="Spacer &lt;7&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MyCHxhGPBXzxilYzB">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Ry5H*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;2&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MWkOPEIa314bprIyO">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rd67*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;11&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MZK8k0As7zmXHptjX">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RA5H*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;1&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MviO0EVl5aCJTIDg8">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rg5L*:*538ce93aa65d88c9de771143" name="Spacer &lt;9&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MZ54RFTE0B4tEN2EL">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RO6X*:*538ce93aa65d88c9de771143" name="Hinge &lt;3&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MyObS0dDbpqVB8Pwb">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R25L*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;4&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MVcgjgNh2u+UvOehu">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RT5D*:*538ce93aa65d88c9de771143" name="Spacer &lt;3&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MRtHig1Wz72xIpdOU">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rm6T*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;7&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MCNd3AXf30AzDKN4r">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RO6P*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;10&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="M/KjQGsX/4tn6b4Ry">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RM6P*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;22&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="Mz/4jWW1BIlRfCeGL">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RM6D*:*538ce93aa65d88c9de771143" name="Bracket &lt;4&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="M+zvwY8++bNlTD7ot">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rg5b*:*538ce93aa65d88c9de771143" name="Spacer &lt;12&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MttfN21qy0vNVa/r4">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rv5/*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;19&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MVMoaKo6yVM6ElZwd">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rv5n*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;27&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MSIvJ5tAj+48CbQR8">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RO6L*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;4&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="M7X8fBdzzkCtuTJNe">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="ZRNDD*:*77faeddc003adba5d8099293"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;5&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MvkUkvg2m+CTQG/4L"
+                      uid="MTfDdhoDpXLLFYz88">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991387087 0.130964281 -0.000000000 -0.130964281 0.991387087 </Rotation>
+                  <Translation>-0.000000000 -0.016140929 -0.050043896 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rv5v*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;8&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MxTH1Wv6vrhZpl2BK">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rd6j*:*538ce93aa65d88c9de771143" name="Hinge &lt;4&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MQG2SzzyUaS4ugt25">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rj6H*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;6&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="Ms4S0Eg+ZjuaCx5m4">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rh6D*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;4&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MD2+fTfIivyyxXqdQ">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R35L*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;7&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MTa81q7P9SuUHA6co">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Sv5DB*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;21&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="M6w9KyuABfFkm+IXf">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rg5P*:*538ce93aa65d88c9de771143" name="Spacer &lt;10&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MFb/mUKav5O1lnYGi">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R24T*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;1&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="M5X32d5e3FGxRubxE">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Sv5HB*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;35&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MdOcvb+wunOnWB71l">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RA5L*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;1&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MMpVSyyLwfGjoUT8R">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R35n*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;9&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MPWy3Im4ToIf2d2LO">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rk5D*:*538ce93aa65d88c9de771143" name="Bracket &lt;2&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MccJWyVatHYwbAZ4P">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rk5P*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;16&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MJM+BzNLBXV8gQLoq">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rk5H*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;6&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="Mn9D32Tko+KL8CQ1j">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rc5D*:*538ce93aa65d88c9de771143" name="Spacer &lt;4&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="Mzkk4osT9oHJoClyS">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rv5H*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;40&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="Mi41teuNvJMLaSfKO">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R05H*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;3&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MWgJkeipwVdyHmrjo">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="ZTNDL*:*77faeddc003adba5d8099293" name="link2fr &lt;1&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MXeRYduFI6u5n5woq"
+                      uid="MXvttNbsu3S+BffBg">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991387087 0.130964281 -0.000000000 -0.130964281 0.991387087 </Rotation>
+                  <Translation>-0.000000000 -0.016140929 -0.050043896 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="ZTNDD*:*77faeddc003adba5d8099293" name="link2fl &lt;1&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MXeRYduFI6u5n5woq"
+                      uid="MNLVMXfClz+0M/Mak">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991387087 0.130964281 -0.000000000 -0.130964281 0.991387087 </Rotation>
+                  <Translation>-0.000000000 -0.016140929 -0.050043896 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="ZSNDH*:*77faeddc003adba5d8099293"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;34&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MvkUkvg2m+CTQG/4L"
+                      uid="MW26PzspcCOhg7uUP">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991387087 0.130964281 -0.000000000 -0.130964281 0.991387087 </Rotation>
+                  <Translation>-0.000000000 -0.016140929 -0.050043896 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rd6X*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;28&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MGcmIjggZQEOpv7Ey">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rm5L*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;1&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="Mag+9t1n5VAIydpUU">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="ZTNDb*:*77faeddc003adba5d8099293" name="link1fr &lt;1&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MMCLPEuLOO9uutOfQ"
+                      uid="MreFvVzjuC2kZWziT">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.998775798 0.049466207 -0.000000000 -0.049466207 0.998775798 </Rotation>
+                  <Translation>-0.000000000 -0.006578106 -0.016970139 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R05L*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;3&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="M0YNIvrkESJ4PIxwB">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Sv5LB*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;9&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MU0PFWpImPWLIFKeq">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R35r*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;8&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="M2U9bN8F95cfUEuVz">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rv5r*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;31&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="Mn1wC5zfNsTxOqNtm">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R84T*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;7&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="M9RzV99A5wnTK7Z+q">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Ri5P*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;15&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="Mx3bA6+x3NawP9ulc">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rm5T*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;3&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="M+fsSB7wd4Ia7GcAJ">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RB5b*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;7&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="ME7zff+UaTk92JYq5">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rj4D*:*538ce93aa65d88c9de771143" name="Frame Part &lt;1&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MeBGNQm6clwIlXv9U">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rm6H*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;10&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MXLN+sHqP4caGsI1L">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RO6D*:*538ce93aa65d88c9de771143" name="Bracket &lt;10&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MyfmAT++uSNXkxT5L">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rk5T*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;2&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="M4xLoqL5dZJeKDPnr">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="ZNNDD*:*77faeddc003adba5d8099293"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;18&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MTzNxXiVw4PDKMXhk"
+                      uid="MqieAs4L3Eiugoen/">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.998775798 0.049466207 -0.000000000 -0.049466207 0.998775798 </Rotation>
+                  <Translation>-0.000000000 -0.006578106 -0.016970139 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rv5T*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;12&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MSXP4UR1101P5Dcwm">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rg5X*:*538ce93aa65d88c9de771143" name="Spacer &lt;8&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MAjNLrsD3p2ZZzd6h">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="ZfMDD*:*77faeddc003adba5d8099293" name="Part 843 &lt;1&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MTzNxXiVw4PDKMXhk"
+                      uid="Me2FpJiNVpmr6Zzw2">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.998775798 0.049466207 -0.000000000 -0.049466207 0.998775798 </Rotation>
+                  <Translation>-0.000000000 -0.006578106 -0.016970139 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RM6H*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;2&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MEbg91ho9BhV4pHPD">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rj6L*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;6&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="M6o5PKzpjJXVLDKq1">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R24P*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;17&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="M5I+qSXIFyLsH/xgB">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rm5D*:*538ce93aa65d88c9de771143" name="Bracket &lt;3&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MZqpR8MfMeRmZcNlH">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R25H*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;4&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="M6806nanhBwgH3OSg">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R24X*:*538ce93aa65d88c9de771143" name="Hinge &lt;1&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MoiTZ0yB8GtIEbyar">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R24H*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;11&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MhUmabSCW9hvc/R7J">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R35D*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;6&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MkpHzAlKZEfoIUcbT">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rv5j*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;24&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="M5Uii/YLPWxIPXRG3">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rm6b*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;12&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MjuMUhmlqBu/iIEsl">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Sv5PB*:*538ce93aa65d88c9de771143" name="Hinge &lt;2&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MLxAz6a5+8qAAkLTq">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rg5T*:*538ce93aa65d88c9de771143" name="Spacer &lt;11&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MsPYJxcM726iD7lC3">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rj6D*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;5&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="M+5T51afe/ZsaBAvv">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Ri5L*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;14&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MDjKsewfe3heXX2YQ">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rv5X*:*538ce93aa65d88c9de771143" name="Hinge &lt;5&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="M/gHyZ5VBB1hEn8fS">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rd6T*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;25&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="M79opTbDMStGuigtB">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RO6H*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;13&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MEC6gPk1tgomT0leE">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RZ5D*:*538ce93aa65d88c9de771143" name="Spacer &lt;6&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MWgWjNWg3pfC/XaXY">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="ZSNDD*:*77faeddc003adba5d8099293"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;33&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MTzNxXiVw4PDKMXhk"
+                      uid="Mm720nsABLMod3jbO">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.998775798 0.049466207 -0.000000000 -0.049466207 0.998775798 </Rotation>
+                  <Translation>-0.000000000 -0.006578106 -0.016970139 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rv5P*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;30&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MEuDnBNz4WL4gZ3xt">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rf5D*:*538ce93aa65d88c9de771143" name="Spacer &lt;1&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="Mcdfs8zfAtdyVvaQy">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rv57*:*538ce93aa65d88c9de771143" name="Bracket &lt;8&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MQx3Fu56rts/H/duj">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RB5f*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;9&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MftJ03PWFPZRbGLvh">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rm6L*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;11&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="M9OpzlR6o5yJQXtCH">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rv5D*:*538ce93aa65d88c9de771143" name="Bracket &lt;7&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MtNeWoNAnYSIdMVnw">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RM6L*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;3&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MCB53qE4bY+os/DSY">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Ri5D*:*538ce93aa65d88c9de771143" name="Bracket &lt;5&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="M2vlZ9j3lEIwxIEv4">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rh6H*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;5&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="M2A8jHD2auBWsjD1q">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RM6T*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;4&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MO+jjKrO6XB1Tgrd1">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Ry5D*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;2&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="M4Cpv+bYKIXMuhufU">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rd6z*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;37&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MiqLksGM+OzcVLVmE">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Ru4D*:*538ce93aa65d88c9de771143" name="Spacer &lt;2&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MZp2JFiXsy7ufTlg3">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.999994644 -0.003272855 -0.000000000 0.003272855 0.999994644 </Rotation>
+                  <Translation>-0.000000000 0.000966317 0.001285085 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R05D*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;3&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="Me2JHQ6pUUXasI4Qz">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R84P*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;32&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MLKDoK9SF7rR/LBrC">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rg5H*:*538ce93aa65d88c9de771143" name="Frame Part &lt;4&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MQU48AqZH2mD/csq6">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RN5D*:*538ce93aa65d88c9de771143" name="Spacer &lt;5&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="M2430M9d2MvSP40KE">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rm5H*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;7&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MmpCDAIGWp86VG6Cm">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rv5f*:*538ce93aa65d88c9de771143" name="Bracket &lt;9&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MSXDiKcHE7AfvEP6a">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R24D*:*538ce93aa65d88c9de771143" name="Bracket &lt;1&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="M0u5nqsholeIZBgVW">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rh6L*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;5&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MJEJy0gD6YCLsKczm">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RB5X*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;8&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="Mp1TM2SSCnZX9jLSR">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="RA5D*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;1&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="M6f15eTcXW7+dCJhi">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R04L*:*538ce93aa65d88c9de771143" name="Frame Part &lt;3&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MSZNMTlLobCDj8Pjg">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rd6v*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;36&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="M6l4TeUMa1kziLlaz">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="ZiMDD*:*77faeddc003adba5d8099293" name="Part 844 &lt;1&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MvkUkvg2m+CTQG/4L"
+                      uid="MhusEsVPXhKSfi/iO">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991387087 0.130964281 -0.000000000 -0.130964281 0.991387087 </Rotation>
+                  <Translation>-0.000000000 -0.016140929 -0.050043896 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rd63*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;39&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="Mr+N2YQsMi6vcdSPO">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rk5L*:*538ce93aa65d88c9de771143"
+                      name="Spring Pin, 1/8-in OD, 1/4-in L &lt;9&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MqIkxjZG4srACFE8U">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R35b*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;10&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MZZ1z3Po4IJCT0Fbq">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rm6X*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;12&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MzMftG/JTLAVS2Eej">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R35X*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;11&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MbsXDSMbtMafrJ2hu">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rd6f*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;10&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MLK6Ts4efHhLNc940"
+                      uid="MJp5Jznj2dKRHbTD0">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
+                  <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="R35H*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;8&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MguEycW8ppW91wnus"
+                      uid="MNyXkGiys0EAdupE+">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
+                  <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Ri5T*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;6&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MJeQcdCG2zWiNXoiz">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="Rk5X*:*538ce93aa65d88c9de771143" name="Hinge &lt;6&gt;"
+                      rigidGroup="root-MR1WP7DUJo8n64k9q.MCcjhjf/fcWC8Mq4e"
+                      uid="MR+WHi9Ia7bDEzJqn">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
+                  <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
+               </Transform>
+            </Instance>
          </Instance>
          <Instance entityUid="b95215595f6d9c131ccb5c30" name="Neck Actuator &lt;1&gt;"
                    uid="MXh1GZHnK46Vsuh0q">
@@ -1161,115 +1652,6 @@
                </Transform>
             </Instance>
          </Instance>
-         <Instance entityUid="RN5D*:*538ce93aa65d88c9de771143" name="Spacer &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="McJoaYytikTDk7tuB">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rd6z*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;18&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MTAK1NSEYm/cf5sKk">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R24P*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;13&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MW5KbZoC0OeMwGlXa">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="ZTNDL*:*77faeddc003adba5d8099293" name="link2fr &lt;1&gt;"
-                   rigidGroup="root.MlWgBcdY6dtjFeSsM"
-                   uid="Myq4MzhPlWGr2N4DR">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991387087 0.130964281 -0.000000000 -0.130964281 0.991387087 </Rotation>
-               <Translation>-0.000000000 -0.016140929 -0.050043896 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RO6P*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;3&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="M0TLqW27NuLISGZpk">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rk5H*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;2&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MrFtSrDH0upkpeAj0">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R84D*:*538ce93aa65d88c9de771143" name="Bracket &lt;6&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MJIvM01P1hyLycFNi">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rm5T*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;10&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="MdbirDpSNQ1+zttwd">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Sv5HB*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;8&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="MdyPIu2BhNQ3ZApf9">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="ZTNDD*:*77faeddc003adba5d8099293" name="link2fl &lt;1&gt;"
-                   rigidGroup="root.MlWgBcdY6dtjFeSsM"
-                   uid="M2EZeStXGFt8huzYo">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991387087 0.130964281 -0.000000000 -0.130964281 0.991387087 </Rotation>
-               <Translation>-0.000000000 -0.016140929 -0.050043896 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rd6r*:*538ce93aa65d88c9de771143" name="Bracket &lt;19&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="Msq5bAzI6sedp+AT2">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R04P*:*538ce93aa65d88c9de771143" name="Spacer &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MsQ9XXhzsOWcmy8y7">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RB5b*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MXFTrFMeQ7F8DxdWt">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
          <Instance entityUid="8cf19179dde7aa6f778f0a04" name="Head Actuator &lt;1&gt;"
                    uid="M0I+YkiQBaAO9J5eT">
             <Transform>
@@ -1380,156 +1762,6 @@
                   <Translation>-0.000000000 -0.025365552 -0.096173945 </Translation>
                </Transform>
             </Instance>
-         </Instance>
-         <Instance entityUid="R24X*:*538ce93aa65d88c9de771143" name="Hinge &lt;5&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MhR11xnPIIu+uEDgy">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rv5L*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;15&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="Mhf4O4r8Y0mE43S78">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Ri5P*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;6&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MNZY6fKMIgeHKE5Vc">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R24H*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;6&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="Mg3GSyLs02umfNo0p">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rm5D*:*538ce93aa65d88c9de771143" name="Bracket &lt;8&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="MKEx1zIkeg2W168cK">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R35X*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="Ms4r7hlHTL671N2mP">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R35r*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MdNHhzpv8Wc43tQ0Q">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RA5D*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MSv9ZNiwXHpG6YS/E">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rg5P*:*538ce93aa65d88c9de771143" name="Spacer &lt;1&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="M5fAhsrMSglPYumm3">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="ZiMDD*:*77faeddc003adba5d8099293" name="Part 844 &lt;1&gt;"
-                   rigidGroup="root.MriE8fDvFj/1Vgmw/"
-                   uid="M+mO/zbmwql5XhtbK">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991387087 0.130964281 -0.000000000 -0.130964281 0.991387087 </Rotation>
-               <Translation>-0.000000000 -0.016140929 -0.050043896 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rv5H*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;18&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="M7X9+/i+ll3XR0mtR">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R35T*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MhsYrfSm9FrnD4uGG">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R24L*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="M2LhFx9rwDDgB+OY8">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rm6L*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;1&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MzzV3hlrejeDQcqqb">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R35L*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;1&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="MRrqGmv/mhI1CaU1Y">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R84H*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;13&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MpVFHbTEDI5Z0iUn3">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rv5f*:*538ce93aa65d88c9de771143" name="Bracket &lt;16&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MsczQ63Kc7C2ESOHV">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R35H*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;1&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="MxLxhMFpu7VP4mtIq">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
          </Instance>
          <Instance entityUid="059519cbefb97ee5b5efa680" name="HeadLink2 &lt;1&gt;"
                    uid="MshgaOr4vm+8a7e31">
@@ -2360,106 +2592,6 @@
                </Transform>
             </Instance>
          </Instance>
-         <Instance entityUid="R25H*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="M610UuBSK1LJ+Y/Q6">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RM6L*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;10&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="Mvs0n0zSzOI7bg5yZ">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rg5X*:*538ce93aa65d88c9de771143" name="Spacer &lt;1&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MHa8bsDksTBD2SWbY">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rv5P*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;15&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MNsc9l1WYCaSmTCM6">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rd67*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;19&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="M9JUGga7XI75dDaaG">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rd6P*:*538ce93aa65d88c9de771143" name="Bracket &lt;18&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MWDtNFogkV4NS+wFv">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rv5/*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;8&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="MsGM6SKUTLxKM9pFI">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rk5T*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;9&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MtjlUqHYx718J9vmv">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rm5L*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;3&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="Ml+caRkq0nei4SAno">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rv5T*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;15&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MFlmV4MRi2llbkfmM">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rv5D*:*538ce93aa65d88c9de771143" name="Bracket &lt;9&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MlTQfnFvYDCuuSw3O">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="ZfMDD*:*77faeddc003adba5d8099293" name="Part 843 &lt;1&gt;"
-                   rigidGroup="root.MGuinVBB0uH3bQsz7"
-                   uid="M3eibhJhmMFfy1gL4">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.998775798 0.049466207 -0.000000000 -0.049466207 0.998775798 </Rotation>
-               <Translation>-0.000000000 -0.006578106 -0.016970139 </Translation>
-            </Transform>
-         </Instance>
          <Instance entityUid="c481a2ba42ea682874adfb09" name="HeadLink3 &lt;1&gt;"
                    uid="MuiDYXI7jYFhP5bhz">
             <Transform>
@@ -2589,6 +2721,14 @@
                       uid="M3w7/w//n/YSoREWV">
                <Transform>
                   <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.999844712 -0.017622493 -0.000000000 0.017622493 0.999844712 </Rotation>
+                  <Translation>-0.000000000 0.002138756 0.006119247 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="ZpFHD*:*267b11cd5e5daf47522cf76c" name="bulkheads5 &lt;4&gt;"
+                      rigidGroup="root-MuiDYXI7jYFhP5bhz.M3/fnQBJAmiem/OiR"
+                      uid="MXMt0IXmHLvAhMVMO">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 -0.000000000 0.000000000 0.999844712 -0.017622493 0.000000000 0.017622493 0.999844712 </Rotation>
                   <Translation>-0.000000000 0.002138756 0.006119247 </Translation>
                </Transform>
             </Instance>
@@ -2800,6 +2940,14 @@
                   <Translation>-0.000000000 0.002138756 0.006119247 </Translation>
                </Transform>
             </Instance>
+            <Instance entityUid="ZzEHD*:*267b11cd5e5daf47522cf76c" name="bulkheads5 &lt;1&gt;"
+                      rigidGroup="root-MuiDYXI7jYFhP5bhz.M3/fnQBJAmiem/OiR"
+                      uid="MZ7A1io7iJQNmGl3S">
+               <Transform>
+                  <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.999844712 -0.017622493 -0.000000000 0.017622493 0.999844712 </Rotation>
+                  <Translation>-0.000000000 0.002138756 0.006119247 </Translation>
+               </Transform>
+            </Instance>
             <Instance entityUid="R4rH*:*77faeddc003adba5d8099293"
                       name="Spring Pin, 1/8-in OD, 1/4-in L &lt;12&gt;"
                       rigidGroup="root-MuiDYXI7jYFhP5bhz.M3/fnQBJAmiem/OiR"
@@ -2858,6 +3006,14 @@
                   <Translation>-0.000000000 0.002138756 0.006119247 </Translation>
                </Transform>
             </Instance>
+            <Instance entityUid="ZbFHD*:*267b11cd5e5daf47522cf76c" name="bulkheads5 &lt;3&gt;"
+                      rigidGroup="root-MuiDYXI7jYFhP5bhz.M3/fnQBJAmiem/OiR"
+                      uid="MHsgLIKrSJduitd2Y">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 -0.000000000 -0.000000000 0.999844712 -0.017622493 0.000000000 0.017622493 0.999844712 </Rotation>
+                  <Translation>-0.000000000 0.002138756 0.006119247 </Translation>
+               </Transform>
+            </Instance>
             <Instance entityUid="ZcaFP*:*77faeddc003adba5d8099293" name="Part 925 &lt;1&gt;"
                       rigidGroup="root-MuiDYXI7jYFhP5bhz.M3/fnQBJAmiem/OiR"
                       uid="MyZKu5iklQQfkT/4E">
@@ -2879,6 +3035,14 @@
                       uid="MARl6BuK0QzzfkhyC">
                <Transform>
                   <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.999844712 -0.017622493 -0.000000000 0.017622493 0.999844712 </Rotation>
+                  <Translation>-0.000000000 0.002138756 0.006119247 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="ZGFHD*:*267b11cd5e5daf47522cf76c" name="bulkheads5 &lt;2&gt;"
+                      rigidGroup="root-MuiDYXI7jYFhP5bhz.M3/fnQBJAmiem/OiR"
+                      uid="Ml11tNEGOA+UH5Ic1">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 -0.000000000 0.999844712 -0.017622493 0.000000000 0.017622493 0.999844712 </Rotation>
                   <Translation>-0.000000000 0.002138756 0.006119247 </Translation>
                </Transform>
             </Instance>
@@ -2991,6 +3155,14 @@
                   <Translation>-0.000000000 0.002138756 0.006119247 </Translation>
                </Transform>
             </Instance>
+            <Instance entityUid="ZSFHD*:*267b11cd5e5daf47522cf76c" name="bulkheads5 &lt;5&gt;"
+                      rigidGroup="root-MuiDYXI7jYFhP5bhz.M3/fnQBJAmiem/OiR"
+                      uid="M4zfoKVgC2UiWnBYD">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 -0.000000000 -0.000000000 0.999844712 -0.017622493 0.000000000 0.017622493 0.999844712 </Rotation>
+                  <Translation>-0.000000000 0.002138756 0.006119247 </Translation>
+               </Transform>
+            </Instance>
             <Instance entityUid="R4rr*:*77faeddc003adba5d8099293"
                       name="Spring Pin, 1/8-in OD, 1/4-in L &lt;7&gt;"
                       rigidGroup="root-MuiDYXI7jYFhP5bhz.M3/fnQBJAmiem/OiR"
@@ -3018,234 +3190,9 @@
                </Transform>
             </Instance>
          </Instance>
-         <Instance entityUid="ZTNDT*:*77faeddc003adba5d8099293" name="link1fl &lt;1&gt;"
-                   rigidGroup="root.MoV9Lg3Vl1rgX9EA1"
-                   uid="Mo/+RjAumkvnN1hLh">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.998775798 0.049466207 -0.000000000 -0.049466207 0.998775798 </Rotation>
-               <Translation>-0.000000000 -0.006578106 -0.016970139 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="ZSNDD*:*77faeddc003adba5d8099293"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;254&gt;"
-                   rigidGroup="root.MGuinVBB0uH3bQsz7"
-                   uid="M5I8g/83Rfv1Fj7Q2">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.998775798 0.049466207 -0.000000000 -0.049466207 0.998775798 </Rotation>
-               <Translation>-0.000000000 -0.006578106 -0.016970139 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RO6H*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;10&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="Mr98poTqQvdCDJ3kx">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RM6D*:*538ce93aa65d88c9de771143" name="Bracket &lt;11&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MG7lXFWFspy/TBOYt">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Sv5DB*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;9&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="MVnuctEPe39s4+cAh">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RT5D*:*538ce93aa65d88c9de771143" name="Spacer &lt;1&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="MBzNdMqPxnYdYE5vn">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R04L*:*538ce93aa65d88c9de771143" name="Frame Part &lt;2&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MtqnUY/t7rG+EXaao">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rc5D*:*538ce93aa65d88c9de771143" name="Spacer &lt;1&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MkhxdK5mR4+5NYcCx">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R05H*:*538ce93aa65d88c9de771143" name="Washer, #8 &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MnN5OczAwS95gD3Ia">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="R35D*:*538ce93aa65d88c9de771143" name="Lock tabs &lt;1&gt;"
-                   rigidGroup="root.MjpgXJLCEwxsQ9ZPL"
-                   uid="MEnuzcdWnNvs7T7uO">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.991741763 0.128250827 -0.000000000 -0.128250827 0.991741763 </Rotation>
-               <Translation>-0.000000000 -0.013061974 -0.047409372 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RA5L*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="Mn/OVsO/tJFbTP8tb">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rd6f*:*538ce93aa65d88c9de771143" name="Set Screw, #4 1/4 in &lt;18&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MTi/QmnNNNjZfBbkx">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RB5f*:*538ce93aa65d88c9de771143" name="Screw, #8 1/2 in &lt;1&gt;"
-                   rigidGroup="root.MmMT5rf8dRevUGXEq"
-                   uid="MOBGycFo0Gluzc65L">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.997941991 0.064123185 -0.000000000 -0.064123185 0.997941991 </Rotation>
-               <Translation>-0.000000000 -0.005466567 -0.021184628 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="RO6L*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;11&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MtHAtRHuqSBlMEVbI">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
-         <Instance entityUid="Rd6v*:*538ce93aa65d88c9de771143"
-                   name="Spring Pin, 1/8-in OD, 1/4-in L &lt;17&gt;"
-                   rigidGroup="root.MEl8jQz9/CG8/O4eO"
-                   uid="MhmLTiauWw5cTaFld">
-            <Transform>
-               <Rotation>1.000000000 -0.000000000 0.000000000 0.000000000 0.979655831 0.200684960 -0.000000000 -0.200684960 0.979655831 </Rotation>
-               <Translation>-0.000000000 -0.024267257 -0.083142241 </Translation>
-            </Transform>
-         </Instance>
       </InstanceTree>
       <Constraints/>
       <Joints>
-         <Cylindrical name="Cylindrical2">
-            <BaseFrame>
-               <InstancePath>
-                  <Uid>MGWWAoFgVStcbM0/S</Uid>
-               </InstancePath>
-               <Transform>
-                  <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 -0.000000000 -0.000000000 0.000000000 1.000000000 -0.000000000 </Rotation>
-                  <Translation>0.040842045 -0.416504143 0.078172009 </Translation>
-               </Transform>
-            </BaseFrame>
-            <FollowerFrame>
-               <InstancePath>
-                  <Uid>MNoWIcCVQf1l+XSQJ</Uid>
-               </InstancePath>
-               <Transform>
-                  <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 </Rotation>
-                  <Translation>0.040842045 -0.416504143 0.078172009 </Translation>
-               </Transform>
-            </FollowerFrame>
-         </Cylindrical>
-         <Revolute name="Revolute6">
-            <BaseFrame>
-               <InstancePath>
-                  <Uid>M2EZeStXGFt8huzYo</Uid>
-               </InstancePath>
-               <Transform>
-                  <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 -0.000000000 0.000000000 -1.000000000 -0.000000000 </Rotation>
-                  <Translation>0.034492045 -0.480729264 0.035667615 </Translation>
-               </Transform>
-            </BaseFrame>
-            <FollowerFrame>
-               <InstancePath>
-                  <Uid>MykWigKgmacuFDZJL</Uid>
-               </InstancePath>
-               <Transform>
-                  <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 -1.000000000 0.000000000 </Rotation>
-                  <Translation>0.034492045 -0.480729264 0.035667615 </Translation>
-               </Transform>
-            </FollowerFrame>
-         </Revolute>
-         <Cylindrical name="Cylindrical1">
-            <BaseFrame>
-               <InstancePath>
-                  <Uid>MNoWIcCVQf1l+XSQJ</Uid>
-               </InstancePath>
-               <Transform>
-                  <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 -0.000000000 0.000000000 -1.000000000 -0.000000000 </Rotation>
-                  <Translation>0.040842045 -0.505065852 0.070423864 </Translation>
-               </Transform>
-            </BaseFrame>
-            <FollowerFrame>
-               <InstancePath>
-                  <Uid>MslRtTrqAFVSsLYnk</Uid>
-               </InstancePath>
-               <Transform>
-                  <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 -1.000000000 0.000000000 </Rotation>
-                  <Translation>0.040842045 -0.505065852 0.070423864 </Translation>
-               </Transform>
-            </FollowerFrame>
-         </Cylindrical>
-         <Revolute name="Revolute3">
-            <BaseFrame>
-               <InstancePath>
-                  <Uid>MBzNdMqPxnYdYE5vn</Uid>
-               </InstancePath>
-               <Transform>
-                  <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 -0.000000000 0.000000000 -1.000000000 -0.000000000 </Rotation>
-                  <Translation>0.044017045 -0.390594351 0.047425682 </Translation>
-               </Transform>
-            </BaseFrame>
-            <FollowerFrame>
-               <InstancePath>
-                  <Uid>Mo/+RjAumkvnN1hLh</Uid>
-               </InstancePath>
-               <Transform>
-                  <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 -1.000000000 0.000000000 </Rotation>
-                  <Translation>0.044017045 -0.390594351 0.047425682 </Translation>
-               </Transform>
-            </FollowerFrame>
-         </Revolute>
-         <Revolute name="Revolute5">
-            <BaseFrame>
-               <InstancePath>
-                  <Uid>M2EZeStXGFt8huzYo</Uid>
-               </InstancePath>
-               <Transform>
-                  <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 -0.000000000 -0.000000000 0.000000000 1.000000000 -0.000000000 </Rotation>
-                  <Translation>0.031317045 -0.443158501 0.116238377 </Translation>
-               </Transform>
-            </BaseFrame>
-            <FollowerFrame>
-               <InstancePath>
-                  <Uid>McJoaYytikTDk7tuB</Uid>
-               </InstancePath>
-               <Transform>
-                  <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 </Rotation>
-                  <Translation>0.031317045 -0.443158501 0.116238377 </Translation>
-               </Transform>
-            </FollowerFrame>
-         </Revolute>
          <Revolute name="Revolute1">
             <BaseFrame>
                <InstancePath>
@@ -3259,7 +3206,8 @@
             </BaseFrame>
             <FollowerFrame>
                <InstancePath>
-                  <Uid>MTtSFMo7h3pL7ddH/</Uid>
+                  <Uid>MR1WP7DUJo8n64k9q</Uid>
+                  <Uid>MreFvVzjuC2kZWziT</Uid>
                </InstancePath>
                <Transform>
                   <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 </Rotation>
@@ -3267,50 +3215,11 @@
                </Transform>
             </FollowerFrame>
          </Revolute>
-         <Weld name="Fastened1">
-            <BaseFrame>
-               <InstancePath>
-                  <Uid>M3eibhJhmMFfy1gL4</Uid>
-               </InstancePath>
-               <Transform>
-                  <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 -0.000000000 -0.000000000 0.000000000 1.000000000 -0.000000000 </Rotation>
-                  <Translation>0.047192045 -0.356246624 0.106917691 </Translation>
-               </Transform>
-            </BaseFrame>
-            <FollowerFrame>
-               <InstancePath>
-                  <Uid>Mo/+RjAumkvnN1hLh</Uid>
-               </InstancePath>
-               <Transform>
-                  <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 </Rotation>
-                  <Translation>0.047192045 -0.356246624 0.106917691 </Translation>
-               </Transform>
-            </FollowerFrame>
-         </Weld>
-         <Weld name="Fastened5">
-            <BaseFrame>
-               <InstancePath>
-                  <Uid>M2EZeStXGFt8huzYo</Uid>
-               </InstancePath>
-               <Transform>
-                  <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 -0.000000000 0.000000000 -1.000000000 -0.000000000 </Rotation>
-                  <Translation>0.034492045 -0.451697311 0.097926840 </Translation>
-               </Transform>
-            </BaseFrame>
-            <FollowerFrame>
-               <InstancePath>
-                  <Uid>M+mO/zbmwql5XhtbK</Uid>
-               </InstancePath>
-               <Transform>
-                  <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 -1.000000000 0.000000000 </Rotation>
-                  <Translation>0.034492045 -0.451697311 0.097926840 </Translation>
-               </Transform>
-            </FollowerFrame>
-         </Weld>
          <Weld name="Fastened6">
             <BaseFrame>
                <InstancePath>
-                  <Uid>MkAaYQS9+HIGouvPV</Uid>
+                  <Uid>MR1WP7DUJo8n64k9q</Uid>
+                  <Uid>Mcdfs8zfAtdyVvaQy</Uid>
                </InstancePath>
                <Transform>
                   <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 -0.000000000 -0.000000000 0.000000000 1.000000000 -0.000000000 </Rotation>
@@ -3331,7 +3240,8 @@
          <Weld name="Fastened7">
             <BaseFrame>
                <InstancePath>
-                  <Uid>MkhxdK5mR4+5NYcCx</Uid>
+                  <Uid>MR1WP7DUJo8n64k9q</Uid>
+                  <Uid>Mzkk4osT9oHJoClyS</Uid>
                </InstancePath>
                <Transform>
                   <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 </Rotation>
@@ -3374,7 +3284,8 @@
          <Revolute name="Revolute4">
             <BaseFrame>
                <InstancePath>
-                  <Uid>MSv9ZNiwXHpG6YS/E</Uid>
+                  <Uid>MR1WP7DUJo8n64k9q</Uid>
+                  <Uid>M6f15eTcXW7+dCJhi</Uid>
                </InstancePath>
                <Transform>
                   <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 -0.000000000 -0.000000000 0.000000000 1.000000000 -0.000000000 </Rotation>
@@ -3483,6 +3394,162 @@
       </Joints>
    </RootAssembly>
    <Assemblies>
+      <Assembly name="HeadSubLinkage" uid="fb1c53f80cd2b3c42d6d7114">
+         <ModelUnits length="inch" mass="pound"/>
+         <Constraints/>
+         <Joints>
+            <Cylindrical name="Cylindrical2">
+               <BaseFrame>
+                  <InstancePath>
+                     <Uid>Me2JHQ6pUUXasI4Qz</Uid>
+                  </InstancePath>
+                  <Transform>
+                     <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 -0.000000000 -0.000000000 0.000000000 1.000000000 -0.000000000 </Rotation>
+                     <Translation>0.040842045 -0.416504143 0.078172009 </Translation>
+                  </Transform>
+               </BaseFrame>
+               <FollowerFrame>
+                  <InstancePath>
+                     <Uid>MID7bd/w3Vc9byvaM</Uid>
+                  </InstancePath>
+                  <Transform>
+                     <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 </Rotation>
+                     <Translation>0.040842045 -0.416504143 0.078172009 </Translation>
+                  </Transform>
+               </FollowerFrame>
+            </Cylindrical>
+            <Revolute name="Revolute6">
+               <BaseFrame>
+                  <InstancePath>
+                     <Uid>MNLVMXfClz+0M/Mak</Uid>
+                  </InstancePath>
+                  <Transform>
+                     <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 -0.000000000 0.000000000 -1.000000000 -0.000000000 </Rotation>
+                     <Translation>0.034492045 -0.480729264 0.035667615 </Translation>
+                  </Transform>
+               </BaseFrame>
+               <FollowerFrame>
+                  <InstancePath>
+                     <Uid>MD2+fTfIivyyxXqdQ</Uid>
+                  </InstancePath>
+                  <Transform>
+                     <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 -1.000000000 0.000000000 </Rotation>
+                     <Translation>0.034492045 -0.480729264 0.035667615 </Translation>
+                  </Transform>
+               </FollowerFrame>
+            </Revolute>
+            <Cylindrical name="Cylindrical1">
+               <BaseFrame>
+                  <InstancePath>
+                     <Uid>MID7bd/w3Vc9byvaM</Uid>
+                  </InstancePath>
+                  <Transform>
+                     <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 -0.000000000 0.000000000 -1.000000000 -0.000000000 </Rotation>
+                     <Translation>0.040842045 -0.505065852 0.070423864 </Translation>
+                  </Transform>
+               </BaseFrame>
+               <FollowerFrame>
+                  <InstancePath>
+                     <Uid>M+5T51afe/ZsaBAvv</Uid>
+                  </InstancePath>
+                  <Transform>
+                     <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 -1.000000000 0.000000000 </Rotation>
+                     <Translation>0.040842045 -0.505065852 0.070423864 </Translation>
+                  </Transform>
+               </FollowerFrame>
+            </Cylindrical>
+            <Revolute name="Revolute3">
+               <BaseFrame>
+                  <InstancePath>
+                     <Uid>MRtHig1Wz72xIpdOU</Uid>
+                  </InstancePath>
+                  <Transform>
+                     <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 -0.000000000 0.000000000 -1.000000000 -0.000000000 </Rotation>
+                     <Translation>0.044017045 -0.390594351 0.047425682 </Translation>
+                  </Transform>
+               </BaseFrame>
+               <FollowerFrame>
+                  <InstancePath>
+                     <Uid>MkS5hWH/RkA0i3p5D</Uid>
+                  </InstancePath>
+                  <Transform>
+                     <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 -1.000000000 0.000000000 </Rotation>
+                     <Translation>0.044017045 -0.390594351 0.047425682 </Translation>
+                  </Transform>
+               </FollowerFrame>
+            </Revolute>
+            <Revolute name="Revolute5">
+               <BaseFrame>
+                  <InstancePath>
+                     <Uid>MNLVMXfClz+0M/Mak</Uid>
+                  </InstancePath>
+                  <Transform>
+                     <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 -0.000000000 -0.000000000 0.000000000 1.000000000 -0.000000000 </Rotation>
+                     <Translation>0.031317045 -0.443158501 0.116238377 </Translation>
+                  </Transform>
+               </BaseFrame>
+               <FollowerFrame>
+                  <InstancePath>
+                     <Uid>M2430M9d2MvSP40KE</Uid>
+                  </InstancePath>
+                  <Transform>
+                     <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 </Rotation>
+                     <Translation>0.031317045 -0.443158501 0.116238377 </Translation>
+                  </Transform>
+               </FollowerFrame>
+            </Revolute>
+            <Weld name="Fastened1">
+               <BaseFrame>
+                  <InstancePath>
+                     <Uid>Me2FpJiNVpmr6Zzw2</Uid>
+                  </InstancePath>
+                  <Transform>
+                     <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 -0.000000000 -0.000000000 0.000000000 1.000000000 -0.000000000 </Rotation>
+                     <Translation>0.047192045 -0.356246624 0.106917691 </Translation>
+                  </Transform>
+               </BaseFrame>
+               <FollowerFrame>
+                  <InstancePath>
+                     <Uid>MkS5hWH/RkA0i3p5D</Uid>
+                  </InstancePath>
+                  <Transform>
+                     <Rotation>0.000000000 0.000000000 1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 </Rotation>
+                     <Translation>0.047192045 -0.356246624 0.106917691 </Translation>
+                  </Transform>
+               </FollowerFrame>
+            </Weld>
+            <Weld name="Fastened5">
+               <BaseFrame>
+                  <InstancePath>
+                     <Uid>MNLVMXfClz+0M/Mak</Uid>
+                  </InstancePath>
+                  <Transform>
+                     <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 -0.000000000 0.000000000 -1.000000000 -0.000000000 </Rotation>
+                     <Translation>0.034492045 -0.451697311 0.097926840 </Translation>
+                  </Transform>
+               </BaseFrame>
+               <FollowerFrame>
+                  <InstancePath>
+                     <Uid>MhusEsVPXhKSfi/iO</Uid>
+                  </InstancePath>
+                  <Transform>
+                     <Rotation>0.000000000 0.000000000 -1.000000000 1.000000000 0.000000000 0.000000000 0.000000000 -1.000000000 0.000000000 </Rotation>
+                     <Translation>0.034492045 -0.451697311 0.097926840 </Translation>
+                  </Transform>
+               </FollowerFrame>
+            </Weld>
+         </Joints>
+      </Assembly>
+      <Assembly name="HeadLink2" uid="059519cbefb97ee5b5efa680">
+         <ModelUnits length="inch" mass="pound"/>
+         <Constraints/>
+         <Joints/>
+      </Assembly>
+      <Assembly name="HeadLink3" uid="c481a2ba42ea682874adfb09">
+         <ModelUnits length="inch" mass="pound"/>
+         <Constraints/>
+         <Joints/>
+      </Assembly>
       <Assembly name="Neck Actuator" uid="b95215595f6d9c131ccb5c30">
          <ModelUnits length="inch" mass="pound"/>
          <Constraints/>
@@ -3509,11 +3576,6 @@
             </Prismatic>
          </Joints>
       </Assembly>
-      <Assembly name="HeadLink2" uid="059519cbefb97ee5b5efa680">
-         <ModelUnits length="inch" mass="pound"/>
-         <Constraints/>
-         <Joints/>
-      </Assembly>
       <Assembly name="Head Actuator" uid="8cf19179dde7aa6f778f0a04">
          <ModelUnits length="inch" mass="pound"/>
          <Constraints/>
@@ -3539,11 +3601,6 @@
                </FollowerFrame>
             </Prismatic>
          </Joints>
-      </Assembly>
-      <Assembly name="HeadLink3" uid="c481a2ba42ea682874adfb09">
-         <ModelUnits length="inch" mass="pound"/>
-         <Constraints/>
-         <Joints/>
       </Assembly>
       <Assembly name="HeadLink1" uid="633d88f41024613d1659d64f">
          <ModelUnits length="inch" mass="pound"/>
@@ -3968,6 +4025,22 @@
             <Shininess>0.5</Shininess>
          </VisualProperties>
       </Part>
+      <Part name="bulkheads5" uid="ZzEHD*:*267b11cd5e5daf47522cf76c">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>0.0976113478</Mass>
+            <CenterOfMass>0.106019510 0.017837305 0.068868983 </CenterOfMass>
+            <Inertia>0.000629650 0.000865009 0.000245990 -0.000018185 0.000385907 0.000011327 </Inertia>
+         </MassProperties>
+         <GeometryFile name="bulkheads5.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
+            <Diffuse a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
+            <Specular a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
       <Part name="bulkheads6" uid="Z9EHD*:*267b11cd5e5daf47522cf76c">
          <ModelUnits length="inch" mass="pound"/>
          <MassProperties>
@@ -3976,6 +4049,22 @@
             <Inertia>0.000653942 0.000904293 0.000279592 0.000078682 0.000408895 -0.000050709 </Inertia>
          </MassProperties>
          <GeometryFile name="bulkheads6.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
+            <Diffuse a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
+            <Specular a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="bulkheads5" uid="ZGFHD*:*267b11cd5e5daf47522cf76c">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>0.0909085796</Mass>
+            <CenterOfMass>0.108953429 0.010563321 -0.178951467 </CenterOfMass>
+            <Inertia>0.000456596 0.000689994 0.000243075 -0.000013129 -0.000324755 -0.000009532 </Inertia>
+         </MassProperties>
+         <GeometryFile name="bulkheads51.step" type="STEP"/>
          <VisualProperties>
             <Ambient a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
             <Diffuse a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
@@ -4000,6 +4089,22 @@
             <Shininess>0.5</Shininess>
          </VisualProperties>
       </Part>
+      <Part name="bulkheads5" uid="ZSFHD*:*267b11cd5e5daf47522cf76c">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>0.0909085796</Mass>
+            <CenterOfMass>-0.108953429 0.010563321 -0.178951467 </CenterOfMass>
+            <Inertia>0.000456596 0.000689994 0.000243075 -0.000013129 0.000324755 0.000009532 </Inertia>
+         </MassProperties>
+         <GeometryFile name="bulkheads52.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
+            <Diffuse a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
+            <Specular a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
       <Part name="bulkheads6" uid="ZSFHH*:*267b11cd5e5daf47522cf76c">
          <ModelUnits length="inch" mass="pound"/>
          <MassProperties>
@@ -4016,6 +4121,22 @@
             <Shininess>0.5</Shininess>
          </VisualProperties>
       </Part>
+      <Part name="bulkheads5" uid="ZbFHD*:*267b11cd5e5daf47522cf76c">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>0.0299739613</Mass>
+            <CenterOfMass>0.000000000 0.007700618 -0.276482103 </CenterOfMass>
+            <Inertia>0.000002151 0.000023696 0.000024480 0.000000023 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="bulkheads53.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
+            <Diffuse a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
+            <Specular a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
       <Part name="bulkheads6" uid="ZlFHD*:*267b11cd5e5daf47522cf76c">
          <ModelUnits length="inch" mass="pound"/>
          <MassProperties>
@@ -4024,6 +4145,22 @@
             <Inertia>0.000002122 0.000023541 0.000024314 -0.000000097 0.000000000 0.000000000 </Inertia>
          </MassProperties>
          <GeometryFile name="bulkheads63.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
+            <Diffuse a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
+            <Specular a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="bulkheads5" uid="ZpFHD*:*267b11cd5e5daf47522cf76c">
+         <ModelUnits length="inch" mass="pound"/>
+         <MassProperties>
+            <Mass>0.0976113478</Mass>
+            <CenterOfMass>-0.106019510 0.017837305 0.068868983 </CenterOfMass>
+            <Inertia>0.000629650 0.000865009 0.000245990 -0.000018185 -0.000385907 -0.000011327 </Inertia>
+         </MassProperties>
+         <GeometryFile name="bulkheads54.step" type="STEP"/>
          <VisualProperties>
             <Ambient a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
             <Diffuse a="1.000000000" b="0.301960784" g="0.282352941" r="0.262745098"/>
