@@ -6855,7 +6855,7 @@ frontParams.CylindricalJoint(2).ID = '[MR1WP7DUJo8n64k9q:Me2JHQ6pUUXasI4Qz:-:MR1
 frontParams.PrismaticJoint(2).Pz.Pos = 0.0;
 frontParams.PrismaticJoint(2).ID = '';
 
-frontParams.PrismaticJoint(1).Pz.Pos = -3.0550277036492988;  % in
+frontParams.PrismaticJoint(1).Pz.Pos = -2.5;  % in
 frontParams.PrismaticJoint(1).ID = '[MXh1GZHnK46Vsuh0q:MvFvhl7SHrAmrDU48:-:MXh1GZHnK46Vsuh0q:MMefQwSdey1t/78V8]';
 
 frontParams.PrismaticJoint(2).Pz.Pos = -1.3269089252556048;  % in
