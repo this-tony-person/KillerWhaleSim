@@ -12261,7 +12261,7 @@ rearParams.CylindricalJoint(6).ID = '[MLR2P7guZzGJ/ZiN6:Mrgs2iObZOCk/+Cf6:-:MZKs
 rearParams.PrismaticJoint(2).Pz.Pos = -0.5;
 rearParams.PrismaticJoint(2).ID = '';
 
-rearParams.PrismaticJoint(1).Pz.Pos = -2;  % in
+rearParams.PrismaticJoint(1).Pz.Pos = -1.5;  % in
 rearParams.PrismaticJoint(1).ID = '[MdJTZJ+KxlRUv4Y06:MMK6AOgzry/F51J7e:-:MdJTZJ+KxlRUv4Y06:MnAPfypkC9pbQBa2n]';
 
 rearParams.PrismaticJoint(2).Pz.Pos = -0.33536055308096641;  % in
