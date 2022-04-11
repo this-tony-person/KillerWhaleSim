@@ -4065,7 +4065,7 @@ standParams.RevoluteJoint(4).ID = '';
 standParams.RevoluteJoint(1).Rz.Pos = -8.7453830158780601;  % deg
 standParams.RevoluteJoint(1).ID = '[MPrKCxua639pJ4+OX:MGwS1Haf2rDpzejih:-:M1Ux0HHb25zpVTNjj:MP4u6pc6GTDmbseNz]';
 
-standParams.RevoluteJoint(2).Rz.Pos = -12.50000000429902;  % deg
+standParams.RevoluteJoint(2).Rz.Pos = 0;  % deg
 standParams.RevoluteJoint(2).ID = '[MfOiTTGFlGGNhOwpr:M1WUtmP3mX7sdDH/7:-:M1Ux0HHb25zpVTNjj:MP4u6pc6GTDmbseNz]';
 
 standParams.RevoluteJoint(3).Rz.Pos = -14.350904415066228;  % deg
